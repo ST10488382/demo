@@ -17,7 +17,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace demo
+namespace POE_Part3
 {//start of namespace
 
     public partial class MainWindow : Window
