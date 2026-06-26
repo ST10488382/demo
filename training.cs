@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace demo
+namespace POE_Part3
 {//start of namespcae
     public class training
     {
