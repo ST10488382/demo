@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace demo
+namespace POE_Part3
 {
     public class Question_in_quiz
     {
