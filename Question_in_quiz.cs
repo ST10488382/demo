@@ -4,7 +4,7 @@ namespace POE_Part3
 {
     public class Question_in_quiz
     {
-        // The text of the quiz question
+        // This is a text of the quiz question
         public string Text { get; set; }
 
         // The correct answer to the question
