@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 using System.Windows;
 using System.Windows.Controls;
 
-namespace demo
+namespace POE_Part3
 {//start of namespace
     public class tasks
     {//start of the class
