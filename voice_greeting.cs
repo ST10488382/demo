@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Media;
 
-namespace demo
+namespace POE_Part3
 {
     //start of namespace
     public class voice_greeting
